@@ -1,0 +1,9 @@
+git status - descobrir o que foi alterado
+git add <nome do arquivo.extensão> - (lalala.txt) - adicionar ao meu git
+git commit -m "<nome da mensagem" - commitar
+git push - subir para a nuvem as alterações
+
+git status
+git add lalala.txt
+git commit -m "adicionando lalala"
+git push
